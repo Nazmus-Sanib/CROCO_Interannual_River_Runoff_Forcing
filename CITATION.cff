@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this package, please cite it as below."
+authors:
+- family-names: Chowdhury
+  given-names: Md Nazmus Sanib
+orcid: https://orcid.org/0000-0003-1127-2071
+title:Nazmus-Sanib/CROCO_Interannual_River_Runoff_Forcing: Modified and devloped MATLAB scripts to generate CROCO interannual river forcing
+version: v1.0.0
+date-released: 2026-09-16
