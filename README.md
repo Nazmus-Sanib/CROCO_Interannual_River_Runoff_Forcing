@@ -1,2 +1,8 @@
 # CROCO_Interannual_River_Runoff_Forcing
-Modification of some CROCO-TOOLS preprocessing files while adding some additional MATLAB files in order to create runoff forcing for an interannual simulation in Coastal and Regional Ocean COmmunity (CROCO) Model.
+Overview:
+DEVELOPED and MODIFIED by MD NAZMUS SANIB CHOWDHURY on September 16, 2026.
+
+%
+%  You are free to redistribute it and/or modify it under the terms of
+%  the GNU General Public License as published by the Free Software 
+%  Foundation.
