@@ -56,7 +56,7 @@ Introduction:
 
   
   
- ## Then, In a MATLAB editor from the croco_tools of your project directory run the following:
+ ## Then, in a MATLAB editor from the croco_tools of your project directory run the following:
 
   start
   automate_make_runoff
