@@ -1,9 +1,15 @@
 # CROCO_Interannual_River_Runoff_Forcing
 
-Overview:
+
 # DEVELOPED and MODIFIED by MD NAZMUS SANIB CHOWDHURY on September 16, 2026.
 
 
+Reference: 
+  CROCO_TOOLS Developers. (n.d.). CROCO tools in Matlab 
+  [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.7431960
+
+
+Introduction:
 
   You are free to redistribute it and/or modify it under the terms of
   the GNU General Public License as published by the Free Software 
@@ -36,8 +42,9 @@ Overview:
   psource_LSRC_TSRC_????.csv files, while "????" are replaced by the
   corresponding years. These *.csv files containing the LSRC and TSRC
   whose are referred to the yearly mean temperature and yearly mean
-  salinity for the selected rivers respectively. The usage of generating 
-  monthly interannual runoff files is mentioned as follows: 
+  salinity for the selected rivers respectively. 
+  
+  The usage of generating monthly interannual runoff files is mentioned as follows: 
 
   At first place and/or replace the argument_def_dir.m, make_runoff.m,
   automate_make_runoff.m and runoff_glob_extract.m files in the
