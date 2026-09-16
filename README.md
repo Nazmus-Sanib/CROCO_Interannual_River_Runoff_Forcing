@@ -108,12 +108,4 @@ Introduction:
 
   Then, in the your_croco_project_directory/run_croco_inter.bash
  
-  1. Replace the RUNOFF_FILES=0 with the RUNOFF_FILES=1
-
-  2. Replace the:
-     echo "Getting ${RNFFILE}.nc${ENDF} from $MSSDIR"
-     $LN -sf $MSSDIR/${RNFFILE}.nc${ENDF} ${RNFFILE}.nc${ENDF}
-   
-     with the:
-     echo "Getting ${RNFFILE}_${RUNOFF}_${TIME}.nc${ENDF} from $MSSDIR"
-     $LN -sf $MSSDIR/${RNFFILE}_${RUNOFF}_${TIME}.nc${ENDF} ${RNFFILE}.nc${ENDF}
+ <img width="1224" height="412" alt="Screenshot from 2026-09-16 07-18-20" src="https://github.com/user-attachments/assets/e93955ae-daba-45fe-8587-64ab77571274" />
